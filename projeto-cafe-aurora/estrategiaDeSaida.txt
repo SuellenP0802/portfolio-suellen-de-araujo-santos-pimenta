@@ -1,0 +1,35 @@
+# Estratégia de Saída - Café Aurora
+
+## Risco de Vendor Lock-in
+O Bubble.io retém a propriedade do código-fonte gerado visualmente. 
+Não é possível exportar o código completo (frontend + lógica de workflows) 
+para uma plataforma tradicional como React ou Node.js.
+
+## Estratégia de Mitigação
+
+### 1. Exportação de Dados via API
+O Bubble oferece API nativa para extrair todos os dados armazenados.
+
+**Passos para exportar:**
+- Acessar Settings > API > Enable Data API
+- Gerar uma API Key com permissões de leitura
+- Utilizar endpoints como: GET /api/1.1/obj/Quote
+- Exportar dados em formato JSON para migração futura
+
+### 2. Tabelas a serem exportadas
+- User (usuários do sistema)
+- Quote (orçamentos)
+- QuoteItem (itens dos orçamentos)
+- Cliente (clientes cadastrados)
+- Produto (produtos do catálogo)
+
+### 3. Plano de Recriação
+Caso seja necessário migrar para código tradicional (React/Node.js):
+- Manter a mesma estrutura de banco de dados (MongoDB/PostgreSQL)
+- Recriar a lógica de negócio baseado nos workflows documentados
+- Replicar as regras de privacidade no backend da nova aplicação
+
+### 4. Conclusão
+O Bubble é excelente para MVP e validação de ideias, 
+mas para produção em larga escala, deve-se planejar a migração 
+através da exportação contínua dos dados via API.
