@@ -11,13 +11,19 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Ciência da Computação na UNICID (Univercidade Cidade de São Paulo) e venho desenvolvendo minhas habilidades em programação, banco de dados e análise de dados através de projetos acadêmicos e estudos complementares.
+Atualmente cursando o 1º período de Ciência da Computação na UNICID (Universidade Cidade de São Paulo), venho desenvolvendo minhas habilidades em programação, banco de dados e análise de dados através de projetos acadêmicos, estudos complementares e desenvolvimento de sistemas voltados para resolução de problemas reais.
 
-Tenho interesse em desenvolvimento backend e tecnologia aplicada ao setor financeiro, buscando constantemente evoluir meus conhecimentos em lógica de programação, estrutura de dados e desenvolvimento de sistemas.
+Tenho interesse em desenvolvimento backend e tecnologia aplicada ao setor financeiro, buscando constantemente evoluir meus conhecimentos em lógica de programação, estrutura de dados e desenvolvimento de sistemas. Meu objetivo profissional é construir uma carreira sólida na área de tecnologia, principalmente em empresas do setor bancário e financeiro, contribuindo para o desenvolvimento de sistemas seguros, eficientes e escaláveis.
+
+Desde o início da graduação venho buscando unir teoria e prática por meio de projetos pessoais e acadêmicos, utilizando ferramentas modernas de desenvolvimento e aplicando conceitos aprendidos em sala de aula. Acredito que a tecnologia possui um papel essencial na transformação de processos e na melhoria da experiência das pessoas, motivo pelo qual procuro constantemente aprender novas tecnologias e desenvolver soluções que gerem impacto positivo.
+
+Além do ambiente acadêmico, também busco aprimorar minhas habilidades através de cursos complementares, pesquisas independentes e utilização de ferramentas voltadas ao desenvolvimento de software e inteligência artificial. Tenho interesse especial em áreas como desenvolvimento web, banco de dados, automação, análise de dados e aplicações inteligentes.
+
+Possuo facilidade de aprendizado e adaptação a novas tecnologias, além de gostar de trabalhar em equipe, compartilhar conhecimento e buscar soluções criativas para problemas técnicos. Meu foco atual é continuar evoluindo tecnicamente, fortalecer meu portfólio profissional e adquirir experiência prática na área de tecnologia.
  
 * **Habilidades Técnicas:** HTML, CSS, JavaScript, Python, SQL, C#, Flutter.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico/analítico e facilidade de aprendizado .
-* **Experiência/Projetos Relevantes:** Atuei em um projeto de TCC no meu último ano na escola onde desenvolvi um aplicativo de segurança pessoal.
+* **Experiência/Projetos Relevantes:** Atuei em um projeto de TCC no último ano escolar, onde desenvolvi um aplicativo de segurança pessoal com foco em acessibilidade, praticidade e auxílio em situações de emergência. O projeto envolveu planejamento de funcionalidades, organização de interface, estruturação do sistema e desenvolvimento colaborativo.
  
 ---
  
@@ -45,7 +51,7 @@ Tenho interesse em desenvolvimento backend e tecnologia aplicada ao setor financ
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Café Aurora - Gerenciador de orçamentos** | Website para gerenciar os orçamentos de uma empresa de café. | [Ver Projeto](./projeto-cafe-aurora/) |
+| **Café Aurora - Gerenciador de orçamentos** | Sistema web desenvolvido para auxiliar no gerenciamento de orçamentos de uma empresa fictícia do ramo cafeeiro. O projeto possui foco em organização de pedidos, praticidade no controle de informações e melhoria do fluxo administrativo. Durante o desenvolvimento foram aplicados conceitos de estruturação de interface, organização de dados e experiência do usuário. | [Ver Projeto](./projeto-cafe-aurora/) |
  
 ---
  
@@ -54,3 +60,6 @@ Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+Este repositório foi desenvolvido com o objetivo de centralizar meus projetos acadêmicos, estudos e experiências práticas na área de tecnologia, funcionando como um portfólio profissional em constante evolução. Aqui estão reunidos projetos voltados para desenvolvimento de software, banco de dados, aplicações web e estudos relacionados à programação e tecnologia.
+
+O principal objetivo deste espaço é demonstrar minha evolução acadêmica e técnica ao longo da graduação, permitindo documentar conhecimentos adquiridos, ferramentas utilizadas e soluções desenvolvidas durante minha trajetória na área de tecnologia.
