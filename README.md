@@ -62,6 +62,8 @@ Possuo facilidade de aprendizado e adaptação a novas tecnologias, além de gos
 | :--- | :--- | :--- | :---: |
 | **Desafio — Corrida do Prompt** | Atividade acadêmica voltada para engenharia de prompt e utilização estratégica de Inteligência Artificial generativa. O projeto explorou refinamento iterativo de instruções, análise crítica de respostas geradas por IA e aplicação prática de técnicas de otimização de prompts utilizando conceitos da Taxonomia de Bloom e Taxonomia de Fink. | IA Generativa, Prompt Engineering, Documentação Técnica | [Ver Projeto](./desafio-corrida-do-prompt/) |
 | **Laboratório de Classificação Visual — Viés em IA** | Projeto experimental utilizando Teachable Machine para demonstrar como modelos de Inteligência Artificial desenvolvem vieses quando treinados com conjuntos de dados limitados e estereotipados. O experimento analisa erros de classificação, impactos sociais e questões éticas relacionadas ao uso de IA em decisões automatizadas. | Teachable Machine, Machine Learning, Inteligência Artificial, Ética em IA | [Ver Projeto](./laboratorio-de-classificacao-visual/) |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Projeto comparativo voltado para análise do comportamento de diferentes modelos de Inteligência Artificial diante de um mesmo prompt estruturado em XML. A atividade explorou geração automatizada de código HTML/CSS, consumo de tokens, fidelidade estrutural e diferenças entre modelos generativos. | XML, Engenharia de Prompt, HTML, CSS, IA Generativa | [Ver Projeto](./batalha-de-modelos/) |
+
 
 ---
 
