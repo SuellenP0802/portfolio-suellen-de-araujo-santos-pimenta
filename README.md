@@ -71,10 +71,6 @@ Possuo facilidade de aprendizado e adaptação a novas tecnologias, além de gos
 | **Café Aurora — Gerenciador de Orçamentos** | Sistema web desenvolvido para auxiliar no gerenciamento de orçamentos de uma empresa fictícia do ramo cafeeiro. O projeto possui foco em organização de pedidos, praticidade no controle de informações e melhoria do fluxo administrativo. Durante o desenvolvimento foram aplicados conceitos de estruturação de interface, organização de dados e experiência do usuário. | HTML, CSS, JavaScript | [Ver Projeto](./projeto-cafe-aurora/) |
 
 ---
-
----
- 
----
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
