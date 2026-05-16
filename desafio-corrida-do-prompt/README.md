@@ -151,7 +151,7 @@ Também foi possível observar que a IA responde de forma mais eficiente quando 
 
 Os prints contendo todas as interações realizadas durante o desafio estão disponíveis no arquivo PDF anexado ao projeto.
 
-📄 Arquivo: `Desafio.pdf`
+[📄 Ver PDF completo](./Desafio.pdf)
 
 ---
 
