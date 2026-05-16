@@ -46,12 +46,33 @@ Possuo facilidade de aprendizado e adaptação a novas tecnologias, além de gos
 ---
  
 ### 📂 Portfólio de Projetos
- 
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Café Aurora - Gerenciador de orçamentos** | Sistema web desenvolvido para auxiliar no gerenciamento de orçamentos de uma empresa fictícia do ramo cafeeiro. O projeto possui foco em organização de pedidos, praticidade no controle de informações e melhoria do fluxo administrativo. Durante o desenvolvimento foram aplicados conceitos de estruturação de interface, organização de dados e experiência do usuário. | [Ver Projeto](./projeto-cafe-aurora/) |
+
+#### 🎨 Desenvolvimento Web & UI/UX
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :---: |
+| **Lumora UI MVP** | Ferramenta web de geração visual para estilos Soft UI/Neumorfismo desenvolvida a partir de engenharia reversa e posteriormente transformada em um produto autoral. O sistema permite personalização de sombras, blur, intensidade, arredondamento e cores em tempo real, gerando automaticamente o CSS correspondente. O projeto conta com Dark Mode, presets rápidos, download automático do CSS e integração com Firebase Firestore para armazenamento em nuvem. | HTML, CSS, JavaScript, Firebase, GitHub Pages | [Ver Projeto](https://suellenp0802.github.io/Lumora-UI/) |
+| **Clonagem do Neumorphism.io** | Projeto acadêmico de engenharia reversa focado na reconstrução funcional e visual de uma ferramenta de geração de interfaces neumórficas sem acesso ao código-fonte original. O objetivo foi compreender lógica visual, experiência do usuário e estruturação front-end utilizando Inteligência Artificial como apoio ao desenvolvimento. | HTML, CSS, JavaScript | [Ver Projeto](https://suellenp0802.github.io/clonagem-do-neumorphism/) |
+
+---
+
+#### 🤖 Inteligência Artificial & Engenharia de Prompt
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :---: |
+| **Desafio — Corrida do Prompt** | Atividade acadêmica voltada para engenharia de prompt e utilização estratégica de Inteligência Artificial generativa. O projeto explorou refinamento iterativo de instruções, análise crítica de respostas geradas por IA e aplicação prática de técnicas de otimização de prompts utilizando conceitos da Taxonomia de Bloom e Taxonomia de Fink. | IA Generativa, Prompt Engineering, Documentação Técnica | [Ver Projeto](./desafio-corrida-do-prompt/) |
+
+---
+
+#### ☕ Desenvolvimento de Sistemas
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :---: |
+| **Café Aurora — Gerenciador de Orçamentos** | Sistema web desenvolvido para auxiliar no gerenciamento de orçamentos de uma empresa fictícia do ramo cafeeiro. O projeto possui foco em organização de pedidos, praticidade no controle de informações e melhoria do fluxo administrativo. Durante o desenvolvimento foram aplicados conceitos de estruturação de interface, organização de dados e experiência do usuário. | HTML, CSS, JavaScript | [Ver Projeto](./projeto-cafe-aurora/) |
+
+---
+
+---
  
 ---
  
